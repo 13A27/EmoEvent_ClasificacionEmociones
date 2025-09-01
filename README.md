@@ -45,8 +45,3 @@ Los resultados principales se encuentran en la carpeta /results:
 - *Distribuciones de clases* → frecuencia por emoción en cada split.  
 - *Comparaciones entre modelos* → gráficas de F1/accuracy.  
 
-Ejemplo de acceso desde Colab o Jupyter:  
-
-```python
-from IPython.display import Image
-Image(filename="results/matriz_confusion_modelo1.jpeg")
