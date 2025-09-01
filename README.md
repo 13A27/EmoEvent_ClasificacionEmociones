@@ -13,11 +13,6 @@ El objetivo es comparar diferentes enfoques (léxicos, lingüísticos y contextu
   - Entrenamiento y evaluación de tres modelos
   - Reportes de métricas por clase y por evento
   - Matrices de confusión y análisis comparativo
-- Carpeta /results:
-  - Tablas y métricas exportadas
-  - Gráficos de desempeño guardados en *formato .jpeg* (matrices de confusión, distribuciones de clases, comparaciones entre modelos)
-- README.md → este archivo
-
 ---
 
 ## Modelos explorados
@@ -37,10 +32,7 @@ El objetivo es comparar diferentes enfoques (léxicos, lingüísticos y contextu
 
 ---
 
-## Resultados en formato JPEG
-
-Los resultados principales se encuentran en la carpeta /results:
-
+## Resultados
 - *Matrices de confusión* → muestran cómo cada modelo confunde entre emociones.  
 - *Distribuciones de clases* → frecuencia por emoción en cada split.  
 - *Comparaciones entre modelos* → gráficas de F1/accuracy.  
